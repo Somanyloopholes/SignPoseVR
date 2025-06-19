@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/Main scene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 0
+    path: Assets/Scenes/Gesture testing 1.unity
+    guid: 71ae202a5191fc045b6e78baa949097a
+  - enabled: 0
+    path: Assets/Scenes/UnityXRHands.unity
+    guid: ac0236eb04a1af047b755aa788bb7e97
+  - enabled: 1
+    path: Assets/Scenes/UnityXRMultiplePoses.unity
+    guid: b8a03e94ae1449a47b83aab7823a6f9c
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 5fdcffec97a1d58458912da32cef7c5f,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: a6dbf2b5b4ee5c942aa2215ccfb6573a,
+      type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: ee06ba86007bd4a449a4700b62d0cc5a,
+      type: 2}

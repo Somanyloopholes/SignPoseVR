@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23a6203a6d084df46afab9c42e3dfdee, type: 3}
+  m_Name: 5
+  m_EditorClassIdentifier: 
+  poseAsset: {fileID: 11400000, guid: 00ee22cee42f50d4d9f2604157333757, type: 2}
+  previewImage: {fileID: 21300000, guid: e3274deb48b92554fa5f7518ad126dea, type: 3}
+  description: 'All five digits spread and extend.
+
+'

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23a6203a6d084df46afab9c42e3dfdee, type: 3}
+  m_Name: G
+  m_EditorClassIdentifier: 
+  poseAsset: {fileID: 11400000, guid: c31d9e7fdbb0b954698626f0493719e9, type: 2}
+  previewImage: {fileID: 21300000, guid: 80399c92744d3ef4da742f68f74f14e6, type: 3}
+  description: 'The thumb and index finger extend forward in parallel while the remaining
+    fingers curl into the palm.
+
+
+    Orientation : palm facing inwards.'
