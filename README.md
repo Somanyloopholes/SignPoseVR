@@ -1,9 +1,9 @@
 
 # SignPose VR
 
-![](https://raw.githubusercontent.com/Somanyloopholes/SignPoseVR/main/demoGIF.gif)
-
 SignPoseVR is a project I designed to help beginners practice and get started with American Sign Language (ASL). It helps you intuitively learn how to make signs using hand tracking with immediate feedback. I made this as a part of my coursework for the VR class at Illinois Institute od Technology.
+
+![](https://raw.githubusercontent.com/Somanyloopholes/SignPoseVR/main/demoGIF.gif)
 
 ## Demo
 
