@@ -15,7 +15,7 @@ https://youtu.be/qkcpHR63A9Y
 
 Here's the link to the app on the meta horizon store:
 
-coming soon
+https://www.meta.com/experiences/24069781642651333/
 
  ## Features:
 
