@@ -29,7 +29,6 @@ https://www.meta.com/experiences/24069781642651333/
 
 - Currently the vocabulary consists of the 26 alphabets and digits 0-9.
 
-- .
 
 ## Contact
 
